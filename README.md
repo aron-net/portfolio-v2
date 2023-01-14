@@ -26,7 +26,7 @@ Step 2: Copy All Project files and run using VSCODE. HTML can be viewed in brows
 - Js (JavaScript) 
 ## Live Demo
 
-[Live  Demo Link](https://aron-helu.github.io/portfolio/)
+[Live  Demo Link](https://aron-helu.github.io/portfolio-v2/)
 
 ## Author
 
