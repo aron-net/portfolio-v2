@@ -12,7 +12,7 @@
 
 step 1: Clone this repo locally using git in the command line and the following command
 
-git clone https://github.com/aron-helu/portfolio-v2.git
+git clone https://github.com/aron-net/portfolio-v2.git
 
 Alternatively, you can just download the complete zip file and extract the folder in your directory
 
